@@ -23,3 +23,17 @@ For relevant books (or chapters), journal and other articles, blog and other pos
 [Which programming languages support secp256k1? | Bitcoin guide](http://www.bitcoin.jcshp.com/answers/16961)
 
 [Questions on: private-key | Bitcoin guide](http://www.bitcoin.jcshp.com/private-key)
+
+[shell - How to verify downloaded file with .sig file? - Stack Overflow](http://stackoverflow.com/questions/15331015/how-to-verify-downloaded-file-with-sig-file#)
+
+[detach-signature](https://www.gnupg.org/gph/en/manual/r622.html)
+
+[verify](https://www.gnupg.org/gph/en/manual/r697.html)
+
+[1181: PGP - explain xkcd](https://www.explainxkcd.com/wiki/index.php/1181:_PGP)
+
+[What does "BEGIN PGP SIGNED MESSAGE" mean?](http://ask-leo.com/what_does_begin_pgp_signed_message_mean.html)
+
+[Can I get a public key from PGP signature? - Information Security Stack Exchange](https://security.stackexchange.com/questions/62916/can-i-get-a-public-key-from-pgp-signature)
+
+[Signing Documents with PGP](http://david.tribble.com/text/pgpsign.htm)
